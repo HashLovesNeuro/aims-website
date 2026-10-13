@@ -117,6 +117,21 @@
         }
     ],
     "Master's Students": [
+                {
+            "active": true,
+            "name": "Hashmeet Kainth",
+            "position": "Master's Student",
+            "department": "Anatomy and Cell Biology",
+            "supervisor": "Co-supervised by Dr. Ali Khan",
+            "img": "./people-images/hashmeet.jpg",
+            "socialLinks": {
+                "linkedin": "https://www.linkedin.com/in/hashmeetkainth",
+                "github": "https://github.com/HashLovesNeuro",
+                "email": "mailto:hkainth4@uwo.ca"
+            },
+            "bio": "Hashmeet Kainth is a Master's student in Clinical Anatomy at Western University, supervised by Dr. Jonathan Lau and Dr. Ali Khan. He completed an Honours BSc in Neuroscience at Western in 2026. His project compares 7T diffusion MRI with Klingler-based microdissection of the same brain specimens to validate white matter tracts of the subcortical connectome. Before joining the lab, he did research in pediatric fMRI and disorders of consciousness, and in clinical neuroscience studies on pain, working memory, and multiple sclerosis. His interests include neuroanatomy, neuroimaging, and anatomy education."
+        },
+
         {
         "active": true, 
         "name": "Maye Hussein",
